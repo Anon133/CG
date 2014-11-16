@@ -1,4 +1,0 @@
-CG
-==
-
-Computergrafik Praktikum
